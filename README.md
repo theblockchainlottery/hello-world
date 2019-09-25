@@ -6,4 +6,5 @@ The Blockchain Lottery is a community-driven lottery solution DApp, powered by E
 T>B>L features an ERC-20 token creator section on the website, create your own token in 1-click!
 
 https://theblockchainlottery.win
-https://arweave.net/Q2hwG64ZCGaPt5Q44UvRW69LHocnFGLeZDivSTgzdXE
+
+https://arweave.net/OWfwRGRCZ5mWXucdQDhL3KlWm6pmHcmWP1BJBx4qfQk
